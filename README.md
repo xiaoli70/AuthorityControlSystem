@@ -11,30 +11,6 @@
 [![博客](https://img.shields.io/badge/博客-Meiam's%20Home-brightgreen.svg)](https://www.592.la/)
 
 
-
-&nbsp;
-
-分支说明
-
-master -  .NET 5    /   netcore31 - .NET Core 3.1
-
-
-###  演示地址:   https://demo.meiam.top
-
-运行环境 ： CENTOS7 / .NET 5 / MYSQL
-
-后台用户 9999 密码 123456
-
-
-
-
-&nbsp;
-
-## 给个星星! ⭐️
-如果你喜欢这个项目或者它帮助你, 请给 Star~（辛苦咯）
-
-
-
 &nbsp;
 
 ## 框架介绍
@@ -80,17 +56,6 @@ master -  .NET 5    /   netcore31 - .NET Core 3.1
 | 7 | 工具库 |Meiam.System.Tools | 代码生成器
 | 8 | 定时任务 |Meiam.System.Tasks | 任务调度中心
 
-还在陆续整理中
-
-![WebAPI][1]
-
-&nbsp;
-
-## 前端功能 （Vue）
-
-还在陆续整理中
-
-![WebUI][2]
 
 &nbsp;
 
@@ -138,26 +103,3 @@ master -  .NET 5    /   netcore31 - .NET Core 3.1
   }
 ```
 
-&nbsp;
-
-### 启动项目
-
-```bash
-dotnet Meiam.System.Hostd.dll
-```
-
-&nbsp;
-
-
-## 贡献
-
-贡献的最简单的方法之一就是是参与讨论和讨论问题（issue）。你也可以通过提交的 Pull Request 代码变更作出贡献。
-
-## 致谢
-
-[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core) 借鉴了作者定时任务的写法
-
-[sunkaixuan/SqlSugar](https://github.com/sunkaixuan/SqlSugar)
-
-  [1]: https://raw.githubusercontent.com/91270/Meiam.System/master/WebAPI.png
-  [2]: https://raw.githubusercontent.com/91270/Meiam.System/master/WebUI.png
